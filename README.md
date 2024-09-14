@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabiel Albar Djati</h1>
 <h3 align="center">I'm a student at politeknik negeri sriwijaya. I majored in electrical engineering</h3>
+![pas photoo](https://github.com/user-attachments/assets/57f86507-28d7-4e59-8004-6cb73d53c4e8)
 
 - 🔭 I’m currently working on **Github Profile BIO**
 
