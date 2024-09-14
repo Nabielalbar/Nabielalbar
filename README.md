@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabiel Albar Djati</h1>(cool.png)
+<h1 align="center">Hi 👋, I'm Nabiel Albar Djati</h1>
 <h3 align="center">I'm a student at politeknik negeri sriwijaya. I majored in electrical engineering</h3>
 
 
